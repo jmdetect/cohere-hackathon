@@ -1,3 +1,9 @@
+# Learn-a-lot
+
+This project for the Cohere hackathon helps visualise and generate concepts you are learning, "setting out a roadmap" in a sense.
+I intend to add more code from the backend which is currently distributed in some microservices tapping into a concurrent job library.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
