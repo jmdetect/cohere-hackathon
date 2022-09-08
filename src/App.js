@@ -1,23 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
+import CohereHackathon from "./jsx/CohereVisual/CohereHackathon";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+       Learn Visually: Cohere Submission for Embed AI Hackathon
       </header>
+      <div>
+        <CohereHackathon />
+      </div>
     </div>
   );
 }
